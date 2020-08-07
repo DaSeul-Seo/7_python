@@ -12,3 +12,20 @@ var2 = 20
 print(var1) # 10출력
 var1 = var2
 print(var1) # 20출력
+print()
+
+print(25)
+print(25.0)
+print(25.1)
+print(-25)
+print(-25.0)
+print()
+
+var3 = 10
+var4 = 25
+print(var3+var4) #35
+print(var3-var4) #-15
+print(var3*var4) #250
+print(var4/var3) #2.5
+print(var4//var3) #2
+print(var4%var3) #5
